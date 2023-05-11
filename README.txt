@@ -35,4 +35,7 @@ fix_overload_train - caut trenul in gara care este supraincarcat, caut vagonul c
 trebuie sa fie < decat optim adica power - abs gasit mai devreme . Se face o stergere simpla a vagonului prin eliberarea de memorie si facand legatura intre vecinii lui saveIt.
 
 
+The homework tasks and useful information can be found in the PDF provided in the repo.
+
+
 
